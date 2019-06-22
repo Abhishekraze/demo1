@@ -6,11 +6,12 @@
     }
   ],
     
-  [{"userId": 123,
+  {"userId": 123,
     "id": 45,
     "title": "Welcome to react admin ",
     "body": "This is my 2nd Post"
-   }],
+   },
+
   "profile": {
     "name": "typicode"
   }
